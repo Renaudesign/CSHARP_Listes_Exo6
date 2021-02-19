@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSHARP_Listes_Exo6/1.0.0": {
+        "runtime": {
+          "CSHARP_Listes_Exo6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSHARP_Listes_Exo6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
